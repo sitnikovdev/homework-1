@@ -1,5 +1,5 @@
 # homework-1
-Домашнее задание 1 по курсу OTUS - "iOS Developer Professional"
+Домашнее задание по занятию №1 курса OTUS - "iOS Developer Professional"
 
 
 Создание каркаса приложения на SwiftUI
